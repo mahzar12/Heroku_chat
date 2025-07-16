@@ -1,5 +1,5 @@
 
-const ws = new WebSocket("ws://localhost:6789");
+const ws = new WebSocket("wss://heroku-chat.up.railway.app/ws");
 
 
 const input = document.getElementById("input");
