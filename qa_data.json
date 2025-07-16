@@ -1,0 +1,9 @@
+{
+  "hello": "Hi there!",
+  "hi": "Hello!",
+  "how are you": "I'm doing great, thanks for asking!",
+  "good morning": "Good morning! Hope you're having a wonderful day.",
+  "tell me about yourself": "I'm a Python WebSocket chatbot designed for interactive browser-based communication.",
+  "about strength": "Speed, clarity, and flexibility — my strengths shine in conversation!",
+  "your strengths": "I'm built for instant responses with clean architecture."
+}
